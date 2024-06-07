@@ -7,7 +7,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - Rstudio
 - Les packages : orsm, dplyr, sf, tidyverse, ggiraph, FactoMineR, data.table, ggplot2, shinydashboard
 
-## Étapes d'installation
+## Étapes d'installation des packages sur R
 
 Executez les commandes : 
 - ``install.packages("orsm")``
