@@ -30,3 +30,7 @@ Puis :
 - ...
 
 Vous pouvez maintenant utiliser le projet.
+
+# Changement du working directory
+Une fois les packages lancé, changé votre working directory :
+setwd("...")
