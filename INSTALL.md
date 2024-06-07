@@ -7,6 +7,10 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - Rstudio
 - Les packages : orsm, dplyr, sf, tidyverse, ggiraph, FactoMineR, data.table, ggplot2, shinydashboard
 
+## Installation de R
+Télécharger R via le lien suivant :
+https://cran.r-project.org/bin/windows/base/
+
 ## Étapes d'installation des packages sur R
 
 Executez les commandes : 
