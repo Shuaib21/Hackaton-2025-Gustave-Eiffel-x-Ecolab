@@ -1,4 +1,4 @@
-# Guide d'Installation
+# Guide d'installation
 Ce document décrit les différentes étapes d'installation du Datathon depuis une machine vierge pour faire tourner le code source, ainsi que l'installation des dépendances et de l'environnement de développement, les configurations nécessaires, et les commandes à utiliser.
 
 ## Prérequis
