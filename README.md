@@ -14,9 +14,7 @@ Ce qu'il est requis pour commencer avec votre projet :
 - Rstudio
 - Les packages : orsm, dplyr, sf, tidyverse, ggiraph, FactoMineR, data.table, ggplot2, shinydashboard
 
-### Installation
-
-Voir le fichier INSTALL.md pour installer les logitiels nécessaires.
+(Voir le fichier INSTALL.md pour installer les logitiels nécessaires.)
 
 ## Démarrage
 
