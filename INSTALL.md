@@ -32,5 +32,5 @@ Puis :
 Vous pouvez maintenant utiliser le projet.
 
 # Changement du working directory
-Une fois les packages lancé, changé votre working directory :
+Une fois les packages lancés, changez votre répertoire de travail (working directory) :
 setwd("...")
